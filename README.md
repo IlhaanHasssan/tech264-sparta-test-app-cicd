@@ -1,2 +1,2 @@
 first line
-i want to test merging
+i want to test merging again
